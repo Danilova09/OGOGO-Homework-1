@@ -19,6 +19,4 @@
 
 ### Фото не мое, но олицетворяет мое состояние души
 
-![joji](https://i1.sndcdn.com/artworks-L8KZmmS6i93T6WmL-RnSKGA-t500x500.jpg){width="200px"
-height="200px"}
-:::
+![joji](https://i1.sndcdn.com/artworks-L8KZmmS6i93T6WmL-RnSKGA-t500x500.jpg)
